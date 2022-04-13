@@ -7,6 +7,10 @@ body{
     color: #222222;
 }
 
+.margin_abajo{
+    margin-bottom: 30px;
+}
+
 /* comienza clases reutilizables */
 
 .btn-rojo {
@@ -175,7 +179,7 @@ nav > a:hover {
 /* comienza cuarta sección */
 
     #cuarta-seccion{
-        background: linear-gradient(rgba(85, 84, 84, 0.7), rgba(88, 88, 88, 0.905)), url(../imgong/denuncia.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(85, 84, 84, 0.7), rgba(119, 189, 185, 0.905)), url(../imgong/formulario_1111111.jpg) no-repeat center/cover;
         background-attachment: fixed;
         height: 700px;
         color: white;
